@@ -3,7 +3,7 @@
 
 ![image](https://media.giphy.com/media/lL1XNLeWn6qaI/giphy.gif)
 
-### Prerequisites
+## Prerequisites
 ```
 requires Visual Studio 2012 or newer & SQL Management Studio.
 ```
@@ -11,4 +11,4 @@ requires Visual Studio 2012 or newer & SQL Management Studio.
 ## Built With
 * [Visual Studio 2012]
 * [SQL server Management Studio]
-* [illustrator] for design 
+* [PhotoShop]  
