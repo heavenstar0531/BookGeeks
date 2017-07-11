@@ -10,5 +10,5 @@ requires Visual Studio 2012 or newer & SQL Management Studio.
 
 ## Built With
 * [Visual Studio 2012]
-* [SQL server Management Studio]
+* [SQL server Management Studio 2008]
 * [PhotoShop]  
