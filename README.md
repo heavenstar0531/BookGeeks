@@ -12,3 +12,7 @@ requires Visual Studio 2012 or newer & SQL Management Studio.
 * [Visual Studio 2012]
 * [SQL server Management Studio 2008]
 * [PhotoShop]  
+
+## License
+Feel free to do whatever you want with this code.
+
